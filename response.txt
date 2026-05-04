@@ -1,0 +1,9 @@
+So, you want to know more about the calculator video, right?
+
+We cover making a simple calculator in our Sigma web development course. The topic is covered from scratch, and we explain how to create a basic calculator with just a few lines of code.
+
+In Video 10, around 36 seconds into it (that's when it says "We will make a simple calculator"), we introduce the concept of creating a calculator application. We also mention that if you want to make a calculator, this is a good starting point for your learning journey in web development.
+
+Later on, in Video 10 again, around 246 seconds into it (that's when it says "Now we will run this calculator"), we actually demonstrate how to write the code and create a working calculator application. This part shows you how to structure your code, use functions, and handle user input.
+
+So, if you want to learn more about creating a simple calculator in web development, I recommend checking out Video 10.
